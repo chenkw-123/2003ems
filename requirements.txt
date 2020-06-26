@@ -13,3 +13,5 @@ redis-py-cluster==2.0.0
 six==1.14.0
 virtualenv==20.0.20
 zipp==3.1.0
+
+pip list
