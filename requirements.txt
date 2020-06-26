@@ -15,3 +15,5 @@ virtualenv==20.0.20
 zipp==3.1.0
 
 pip list
+
+请查询自己需要使用的依赖
